@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "home": "Home",
+    "rankings": "Rankings",
+    "teams": "Teams",
+    "schedule": "Schedule",
+    "signIn": "Sign In"
+  },
+  "hero": {
+    "title": "Elevate Your Game",
+    "subtitle": "Join the ultimate basketball community. Track your progress, find teams, and compete in tournaments.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "auth": {
+    "login": {
+      "title": "Log in",
+      "email": "Email Address",
+      "password": "Password",
+      "role": "Select Role",
+      "roleUser": "User",
+      "roleAdmin": "Admin",
+      "forgotPassword": "Forgot your password?",
+      "submit": "Log In",
+      "noAccount": "Don't have an account?",
+      "register": "Sign Up"
+    }
+  },
+  "comments": {
+    "title": "Comments",
+    "placeholder": "Share your thoughts...",
+    "submit": "Post Comment"
+  }
+}

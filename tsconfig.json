@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "target": "es6", // Пример других настроек
+    "module": "commonjs",
+    "lib": ["dom", "es2015"],
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "files": [], // Ваш список файлов
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
