@@ -91,7 +91,7 @@ export const topPlayers: Player[] = [
     },
     rank: 3,
     previousRank: 2,
-    image: "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
+    image: "https://th.bing.com/th/id/OIP.BX6d1YEeq0g4gPFoTaGjCQHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain",
     bio: "Kevin Durant is one of the most skilled scorers in NBA history, known for his shooting ability and length.",
     achievements: ["2x NBA Champion", "1x NBA MVP", "13x NBA All-Star"],
     height: "6'10\"",
