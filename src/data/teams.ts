@@ -11,7 +11,7 @@ export const teams: Team[] = [
     wins: 40,
     losses: 15,
     image:
-      "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=400&h=300&fit=crop",
+      "https://th.bing.com/th/id/OIP.sDspc1ZvV0k2Nt8qxwixTAAAAA?rs=1&pid=ImgDetMain",
     stats: {
       pointsPerGame: 118.5,
       assistsPerGame: 27.8,
@@ -37,7 +37,7 @@ export const teams: Team[] = [
     wins: 38,
     losses: 17,
     image:
-      "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=400&h=300&fit=crop",
+      "https://th.bing.com/th/id/OIP.0s9rvWv__fl5ygj752hBdQAAAA?rs=1&pid=ImgDetMain",
     stats: {
       pointsPerGame: 116.8,
       assistsPerGame: 26.5,
@@ -63,7 +63,7 @@ export const teams: Team[] = [
     wins: 37,
     losses: 18,
     image:
-      "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=400&h=300&fit=crop",
+      "https://th.bing.com/th?id=OIF.6%2fGA5hJsuNmsXfQ8aX%2b45w&rs=1&pid=ImgDetMain",
     stats: {
       pointsPerGame: 117.2,
       assistsPerGame: 26.9,
@@ -89,7 +89,7 @@ export const teams: Team[] = [
     wins: 35,
     losses: 20,
     image:
-      "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=400&h=300&fit=crop",
+      "https://th.bing.com/th/id/OIP.iYA9PGvn5TijsRdZKuZmTAHaHb?w=4986&h=5000&rs=1&pid=ImgDetMain",
     stats: {
       pointsPerGame: 112.2,
       assistsPerGame: 23.9,
@@ -115,7 +115,7 @@ export const teams: Team[] = [
     wins: 32,
     losses: 13,
     image:
-      "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=400&h=300&fit=crop",
+      "https://www.oursportscentral.com/graphics/teams/glg_austin_spurs19.png",
     stats: {
       pointsPerGame: 111.5,
       assistsPerGame: 21.9,
