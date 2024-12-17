@@ -42,7 +42,7 @@ export const topPlayers: Player[] = [
     rank: 1,
     previousRank: 1,
     image:
-      "https://salaryswishplayerheadshots.b-cdn.net/stephen-curry/2024/600x600.png",
+      "https://i1.sndcdn.com/artworks-tOpOUCDW4v1LXHzU-R4izzQ-t500x500.jpg",
     bio: "Stephen Curry is widely considered the greatest shooter in NBA history. His ability to make long-range three-pointers has revolutionized the game.",
     achievements: ["4x NBA Champion", "2x NBA MVP", "8x NBA All-Star"],
     height: "6'3\"",
