@@ -24,6 +24,19 @@
       "submit": "Войти",
       "noAccount": "Нет аккаунта?",
       "register": "Зарегистрироваться"
+    },
+    "register": {
+      "title": "Регистрация",
+      "name": "Имя",
+      "email": "Электронная почта",
+      "password": "Пароль",
+      "confirmPassword": "Подтвердите пароль",
+      "role": "Выберите роль",
+      "roleUser": "Пользователь",
+      "roleAdmin": "Админ",
+      "submit": "Зарегистрироваться",
+      "alreadyAccount": "Уже есть аккаунт?",
+      "loginInstead": "Войти вместо этого"
     }
   },
   "comments": {
